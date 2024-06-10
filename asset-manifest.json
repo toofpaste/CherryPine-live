@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.afd7172b.chunk.css",
+    "main.js": "/static/js/main.0a399169.chunk.js",
+    "main.js.map": "/static/js/main.0a399169.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5bea1a46.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5bea1a46.js.map",
+    "static/js/2.b8237174.chunk.js": "/static/js/2.b8237174.chunk.js",
+    "static/js/2.b8237174.chunk.js.map": "/static/js/2.b8237174.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.afd7172b.chunk.css.map": "/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.b8237174.chunk.js.LICENSE.txt": "/static/js/2.b8237174.chunk.js.LICENSE.txt",
+    "static/media/21700plain.a80080e8.png": "/static/media/21700plain.a80080e8.png",
+    "static/media/aztec.61716153.png": "/static/media/aztec.61716153.png",
+    "static/media/black.c8b3aeb2.png": "/static/media/black.c8b3aeb2.png",
+    "static/media/blue.95c90985.png": "/static/media/blue.95c90985.png",
+    "static/media/camo.c3409c10.png": "/static/media/camo.c3409c10.png",
+    "static/media/crocgreen.591bb913.png": "/static/media/crocgreen.591bb913.png",
+    "static/media/deserttan.1ae988a1.png": "/static/media/deserttan.1ae988a1.png",
+    "static/media/feek.added338.png": "/static/media/feek.added338.png",
+    "static/media/flow.f1cb56ed.png": "/static/media/flow.f1cb56ed.png",
+    "static/media/galaxy.8918dd15.png": "/static/media/galaxy.8918dd15.png",
+    "static/media/green.0e67e0c1.png": "/static/media/green.0e67e0c1.png",
+    "static/media/grey.c42f2d69.png": "/static/media/grey.c42f2d69.png",
+    "static/media/koi.2efac5c6.png": "/static/media/koi.2efac5c6.png",
+    "static/media/orange.470c7bff.png": "/static/media/orange.470c7bff.png",
+    "static/media/pink.95520287.png": "/static/media/pink.95520287.png",
+    "static/media/plain-angular.9bb21e12.png": "/static/media/plain-angular.9bb21e12.png",
+    "static/media/plain-round.1cf17cf3.png": "/static/media/plain-round.1cf17cf3.png",
+    "static/media/purpl.570d692d.png": "/static/media/purpl.570d692d.png",
+    "static/media/red.7e407ea6.png": "/static/media/red.7e407ea6.png",
+    "static/media/silver.d89c54e6.png": "/static/media/silver.d89c54e6.png",
+    "static/media/topo.2aad7c82.png": "/static/media/topo.2aad7c82.png",
+    "static/media/white.74473822.png": "/static/media/white.74473822.png",
+    "static/media/yellow.6038f8ea.png": "/static/media/yellow.6038f8ea.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5bea1a46.js",
+    "static/js/2.b8237174.chunk.js",
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.0a399169.chunk.js"
+  ]
+}
